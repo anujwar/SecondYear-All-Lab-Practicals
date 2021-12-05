@@ -85,5 +85,3 @@ closegraph();
 return 0;
 
 }
-
-Output:
